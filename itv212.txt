@@ -89,6 +89,10 @@ CCTV-1标清,rtsp://115.153.230.145/PLTV/88888888/224/3221225517/iptv7949.smil
 香港国际卫视http://106.53.99.30/tv/hk.php?id=HKI
 CCTV-1,rtsp://115.153.212.72/PLTV/88888888/224/3221225517/iptv7949.smil?
 江西经济生活,rtsp://115.153.212.72/PLTV/88888888/224/3221226717/53707446.smil?
+翡翠台,http://erp.giihgtidg.com:8080/live/jade01.m3u8
+
+翡翠台2,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
+
 香港频道,#genre#
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
@@ -167,6 +171,7 @@ CCTV13,https://cdn3.163189.xyz/163189/cctv13
 
 
 https://gh-proxy.com/https://raw.githubusercontent.com/wsdy8000/iptv8888.github.io/refs/heads/main/list.txt
+
 
 
 
