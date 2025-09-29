@@ -168,7 +168,7 @@ CCTV13,https://cdn3.163189.xyz/163189/cctv13
 第一财经,https://cdn3.163189.xyz/163189/dycj
 五星体育,https://cdn3.163189.xyz/163189/wxty
 
-上星频道亚太138,#genre#
+上星频道,#genre#
 
 凤凰中文,http://iptv.huuc.edu.cn/hls/fhzw.m3u8
 凤凰资讯,http://iptv.huuc.edu.cn/hls/fhzx.m3u8
@@ -180,6 +180,7 @@ Channel[V],http://iptv.huuc.edu.cn/hls/channelv.m3u8
 卫视体育台,http://iptv.huuc.edu.cn/hls/starsports.m3u8
 
 https://gh-proxy.com/https://raw.githubusercontent.com/wsdy8000/iptv8888.github.io/refs/heads/main/list.txt
+
 
 
 
